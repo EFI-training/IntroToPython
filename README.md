@@ -1,4 +1,4 @@
-# Introduction To Python
+# Getting Started with Python for Research
 
 Welcome to the repository for the Getting Started with Python for Research course with the EFI Data-led research methods training programme. This repository can be thought of as a folder that has all the files you need in - the difference from a usual folder is that it is hosted online!
 
