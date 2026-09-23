@@ -6,6 +6,14 @@ In this course you will be taking your first steps in learning how to program in
 
 It is really key that throughout the course you ask questions whenever you are unsure about something. Both instructors will be on hand at all points in the sessions and through the Teams channel in between weeks to ensure you can ask whatever comes to your mind.
 
+## Course outline:
+
+The course is made up of *3 in-person sessions*, one each week. Each session is around *2 hours* in length with a mixture of some formal teaching and then shifting to hands-on programming exercises to consolidate the step-wise learning in class.
+
+Programming exercises have been formulated into easy to use codebooks (Jupyter notebooks) with plenty of descriptions & walkthrough guidelines. See below for setting up for the session.
+
+Your instructors for semester 1 (2026) will be Joy Lan & Dr. Somya Iqbal.
+
 ## Getting Ready for Joining the Session
 
 ### 1. Option A: Use Noteable (recommended option - installation free with EASE Login)
@@ -37,7 +45,6 @@ There are different ways of installing and running Python locally on your person
 ## Useful Links
 
 - If you would like to continue **learning Python for general use**, or would like more practice, explore these resources:
-  - The CDCS offers an intermediate course on [Data Analysis with Python](https://www.cdcs.ed.ac.uk/events/intro-data-analysis-python), which you will be able to follow after completing this course.
   - The book _Think Python_ offers an introduction to Python for total beginners with many exercises and is [free to read online](https://allendowney.github.io/ThinkPython/).
 - If you are interested in **Natural Language Processing (NLP)** with Python, explore these resources:
   - Introductory blog post describing different libraries and showing some simple code snippets: https://www.educative.io/blog/natural-language-processing-with-python-guide
